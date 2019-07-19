@@ -1,6 +1,6 @@
-# TODO: スライドのタイトル
+# 平成.rb #6
 
-TODO: スライドの説明
+[平成.rb #6 @株式会社Branding Engineer - connpass](https://heiseirb.connpass.com/event/138210/)
 
 ## 作者向け
 
@@ -16,9 +16,9 @@ TODO: スライドの説明
 
 ### インストール
 
-    gem install rabbit-slide--heiseirb-6
+    gem install rabbit-slide-unasuke-heiseirb-6
 
 ### 表示
 
-    rabbit rabbit-slide--heiseirb-6.gem
+    rabbit rabbit-slide-unasuke-heiseirb-6.gem
 

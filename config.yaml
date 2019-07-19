@@ -1,10 +1,10 @@
 ---
 id: heiseirb-6
 base_name: slide
-tags: []
+tags: ['ruby', 'rails']
 presentation_date: 
 version: 1.0.0
-licenses: []
+licenses: ['MIT']
 slideshare_id: 
 speaker_deck_id: 
 ustream_id: 
@@ -12,8 +12,8 @@ vimeo_id:
 youtube_id: 
 author:
   markup_language: :markdown
-  name: 
+  name: unasuke
   email: 
-  rubygems_user: 
+  rubygems_user: unasuke
   slideshare_user: 
   speaker_deck_user: 

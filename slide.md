@@ -59,3 +59,7 @@ theme
 
 # migrationのsyntaxがおかしかった
 ![](img/cash-rails-600rc1-migration-syntax-fix.png){:relative_width="90"}
+
+# あとやること
+- `Rails.application.config.hosts `
+- 他なんかあったっけ……？
